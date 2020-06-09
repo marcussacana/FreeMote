@@ -21,14 +21,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeMote.Tools.EmtConvert",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeMote.Tools.EmtMake", "FreeMote.Tools.EmtMake\FreeMote.Tools.EmtMake.csproj", "{BD8855CF-0B99-43B2-8B92-4013E9A0C41C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeMote.Tools.Viewer", "FreeMote.Tools.Viewer\FreeMote.Tools.Viewer.csproj", "{49ED6374-A267-4CD8-9708-8A900DCDC463}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8610018B-10F9-40E6-95AE-BEDFC3C928C8}"
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeMote.Plugins.Audio", "FreeMote.Plugins.Audio\FreeMote.Plugins.Audio.csproj", "{1796443F-EF3F-4E60-A7A1-F7807935F124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeMote.PaintDN", "FreeMote.PaintDN\FreeMote.PaintDN.csproj", "{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,14 +110,6 @@ Global
 		{BD8855CF-0B99-43B2-8B92-4013E9A0C41C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BD8855CF-0B99-43B2-8B92-4013E9A0C41C}.Release|x86.ActiveCfg = Release|x86
 		{BD8855CF-0B99-43B2-8B92-4013E9A0C41C}.Release|x86.Build.0 = Release|x86
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Debug|x86.ActiveCfg = Debug|x86
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Debug|x86.Build.0 = Debug|x86
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Release|x86.ActiveCfg = Release|x86
-		{49ED6374-A267-4CD8-9708-8A900DCDC463}.Release|x86.Build.0 = Release|x86
 		{1796443F-EF3F-4E60-A7A1-F7807935F124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1796443F-EF3F-4E60-A7A1-F7807935F124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1796443F-EF3F-4E60-A7A1-F7807935F124}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -126,6 +118,14 @@ Global
 		{1796443F-EF3F-4E60-A7A1-F7807935F124}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1796443F-EF3F-4E60-A7A1-F7807935F124}.Release|x86.ActiveCfg = Release|Any CPU
 		{1796443F-EF3F-4E60-A7A1-F7807935F124}.Release|x86.Build.0 = Release|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Debug|x86.Build.0 = Debug|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{3461BEFC-9D70-4F83-BB2C-41D55B8D8BF5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
